@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/n32d75n70d72/san-felipe/" data-label_1="san felipe" data-label_2="weather" data-font="Times New Roman" data-icons="Climacons Animated" data-theme="pure" data-basecolor="#ffff" data-textcolor="#055052" data-highcolor="#81B214" data-lowcolor="#74B49B" data-suncolor="#5C8D89" data-mooncolor="#6E7582" data-cloudcolor="#93B5C6" data-cloudfill="#FDFAF6" data-raincolor="#046582" data-snowcolor="#A2DBFA" >san felipe weather</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
